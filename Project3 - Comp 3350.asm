@@ -6,8 +6,8 @@
 ; and place the values into the output array but the location should be shifted by the amount in the shift
 ; variable. If the shift would cause a value to be outside of the bounds of output, then the values
 ; should loop to the front of output.
-; Author: Bryce Ellis
-; Date: 10-5-2021
+; Author: Chris CJ Young
+; Date: March-2022
 
 .386
 .model flat, stdcall
